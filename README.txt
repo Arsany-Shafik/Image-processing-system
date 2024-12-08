@@ -4,4 +4,4 @@ Image processing system using Matlab
       3) Histogram equalization with new histogram
       4) Compress the photo with its new histogram
       
-NOTICE:     !! WORKS WITH BOTH RGB AND GRAYSCALE IMAGE !!
+NOTICE:     !! WORKS WITH BOTH RGB AND GRAYSCALE IMAGES !!
